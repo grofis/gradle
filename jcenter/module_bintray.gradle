@@ -27,7 +27,7 @@ if (project.hasProperty("android")) { // Android libraries
 //}
 
 artifacts {
-    archives javadocJar
+    //archives javadocJar
     archives sourcesJar
 }
 
